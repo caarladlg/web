@@ -40,7 +40,6 @@ img, iframe {
 }
 
 header, section {
-    min-height: 100vh;
     border: green 3px solid;
     display: flex;
     flex-direction: column;
